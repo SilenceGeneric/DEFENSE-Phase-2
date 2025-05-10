@@ -13,6 +13,7 @@ Ultimate Blueprint for Defensive AI Domination and Complete Stealth Operations
      * Wipe Chromebook completely.
      * Install Kali Linux OS for offensive and defensive penetration capabilities.
      * Use external Tails USB stick for anonymity-focused operations.
+     * air-gapped-AI hardware not mentioned
 
    * **Communication Setup:**
 
